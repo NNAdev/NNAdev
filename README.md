@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NNAdev
+- 👀 I’m interested in developing 
+- 🌱 I’m currently learning developing
